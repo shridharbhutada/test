@@ -1,0 +1,1 @@
+CREATE INDEX salary_index ON COMPANY (salary);
